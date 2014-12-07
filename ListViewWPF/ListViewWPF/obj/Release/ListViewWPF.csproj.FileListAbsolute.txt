@@ -1,0 +1,12 @@
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\ListViewWPF\ListViewWPF\bin\Release\ListViewWPF.exe.config
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\ListViewWPF\ListViewWPF\bin\Release\ListViewWPF.exe
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\ListViewWPF\ListViewWPF\bin\Release\ListViewWPF.pdb
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\ListViewWPF\ListViewWPF\obj\Release\MainWindow.baml
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\ListViewWPF\ListViewWPF\obj\Release\MainWindow.g.cs
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\ListViewWPF\ListViewWPF\obj\Release\App.g.cs
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\ListViewWPF\ListViewWPF\obj\Release\ListViewWPF_MarkupCompile.cache
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\ListViewWPF\ListViewWPF\obj\Release\ListViewWPF.g.resources
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\ListViewWPF\ListViewWPF\obj\Release\ListViewWPF.Properties.Resources.resources
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\ListViewWPF\ListViewWPF\obj\Release\ListViewWPF.csproj.GenerateResource.Cache
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\ListViewWPF\ListViewWPF\obj\Release\ListViewWPF.exe
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\ListViewWPF\ListViewWPF\obj\Release\ListViewWPF.pdb

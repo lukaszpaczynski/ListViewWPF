@@ -1,0 +1,31 @@
+﻿<Window x:Class="ListViewWPF.AddItemWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AddItemWindow" Height="320" Width="305" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="txtBoxAddName" Height="24" Width="150" Margin="0,0,100,120" Grid.Row="0"/>
+        <TextBox Name="txtBoxAddAge" Height="24" Width="150" Margin="0,0,100,0" Grid.Row="0"/>
+
+        <Label Name="labelName" Content="Name:" Width="50" Height="30" Margin="0,0,200,160" Grid.Row="0"/>
+        <Label Name="labelAge" Content="Age:" Width="35" Height="30" Margin="0,0,215,40" Grid.Row="0"/>
+
+        <Image HorizontalAlignment="Right" Width="70" Height="70" Margin="0,0,20,110" Grid.Row="0" Source="Image/logo.png"/>
+
+        <Button Height="21" Width="69" Content="Add Item" Margin="0,110,0,0" Grid.Row="0" Click="AddItem"/>
+        
+        <Separator Grid.Row="0" Margin="0,190,0,0"  Height="2"/>
+        
+        <TextBlock Grid.Row="1" Margin="20,2,0,0" FontSize="17" FontWeight="Bold" FontFamily="ST MicroSquare">Counter:</TextBlock>
+        <TextBlock Grid.Row="1" Margin="230,65,0,0" FontSize="11" FontStyle="Italic" Foreground="Green">Have Fun :)</TextBlock>
+
+        <Label Grid.Row="1" Content="" Width="100" Height="50" Name="CounterLabel" FontSize="15" Margin="64,0,0,10" FontWeight="Bold" FontFamily="MATTEROFFACT" HorizontalAlignment="Center"/>
+        <Button Height="21" Width="69" Content="Hit ME!!" Margin="0,30,0,0" Click="Counter" Grid.Row="1"/>
+    </Grid>
+</Window>

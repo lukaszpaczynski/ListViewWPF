@@ -1,0 +1,7 @@
+﻿<ListView>
+  <ID>1</ID>
+  <Name>asd</Name>
+  <Age>23</Age>
+  <DateOfBirth>1991</DateOfBirth>
+  <Created>21-10-2014</Created>
+</ListView>
